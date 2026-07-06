@@ -1,11 +1,9 @@
 👋 Hi, I'm Asna Faizeen
 
 Aspiring Software Engineer | AI/ML | Data Science  
-🎓 Final-year BCA Student (2026)
+🎓 BCA Graduate 
 
-Profile
-
-Final-year BCA student with real-world AI/ML experience through an AICTE-approved internship at Edunet Foundation. Built end-to-end machine learning pipelines using Python, Scikit-learn, Pandas, and NumPy — achieving 89.69% accuracy with Decision Tree and 76.87% accuracy on a 13,606-record dataset. Certified in Generative AI (Google Cloud) and Fundamentals of Artificial Intelligence (IBM SkillsBuild). Seeking opportunities in AI/ML, Data Science, and Software Development.
+BCA graduate with hands-on AI/ML experience through an AICTE-approved internship at Edunet Foundation. Completed machine learning projects on income classification and student performance prediction using Python, Scikit-learn, Pandas, and NumPy. Achieved 89.69% accuracy with a Decision Tree model and 76.87% accuracy on a 13,606-record dataset. Certified in Google Cloud Generative AI and IBM SkillsBuild Fundamentals of AI. Seeking opportunities in AI/ML, Data Science, or Software Development.
 Skills
 Programming Languages
 - Python  
@@ -29,7 +27,6 @@ Machine Learning Algorithms
 - SVM  
 - Gradient Boosting  
 - Logistic Regression  
-- K-Nearest Neighbors (KNN)  
 - Linear Regression  
 Tools & Platforms
 - Jupyter Notebook  
