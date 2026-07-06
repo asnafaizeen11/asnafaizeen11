@@ -73,7 +73,8 @@ Certifications
 
 - Artificial Intelligence & Machine Learning Internship — Edunet Foundation (AICTE Approved)  
 - Introduction to Generative AI — Google Cloud  
-- Fundamentals of Artificial Intelligence — IBM SkillsBuild  
+- Fundamentals of Artificial Intelligence — IBM SkillsBuild
+- Mckinsey Forward Pogram - Mckinsey & Company
 Additional Certifications:
 - Build Reliable Agentic AI Applications — Simplilearn  
 - Artificial Intelligence Beginners Guide — Simplilearn  
